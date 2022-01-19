@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Siti Nurfaezah 
+- 👋 Hi, I’m Siti Nurfaezah Binti Zahari
 - 👀 I’m interested in understanding in depth application of machine learning for healthcare applications. 
 - 🌱 I’m currently learning Analyzing Data with Python at EdX and i'm also taking professional certificate IBM AI engineering from coursera.
 - 💞️ I’m looking to collaborate with anyone who has the same research interest as mine. 
