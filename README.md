@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Siti Nurfaezah Binti Zahari
-- 👀 I’m interested in understanding in depth application of machine learning for healthcare applications. 
-- 🌱 I’m currently learning Analyzing Data with Python at EdX and i'm also taking professional certificate IBM AI engineering from coursera.
-- 💞️ I’m looking to collaborate with anyone who has the same research interest as mine. 
-- 📫 How to reach me: Feel free to contact me at faezahari@gmail.com. <3 
+👋 Hi, I’m Siti Nurfaezah Binti Zahari
 
-<!---
-faezahari/faezahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m passionate about leveraging machine learning and AI for healthcare applications. My focus is on developing innovative solutions for sensory assessment in spinal cord injury and predictive modeling in healthcare.
+
+🌱 I’m continuously learning and expanding my skill set. I recently completed the DSI Data Science & Machine Learning program and am furthering my knowledge in deep learning applications in healthcare.
+
+💼 I have experience in data analysis, machine learning, and biomedical engineering, with proficiency in Python, R, and SQL. My projects include developing a fully-automated device for sensory assessment and utilizing AI for injury level classification.
+
+💞️ I’m looking to collaborate with researchers and professionals who share my interest in healthcare technology and machine learning. Let's work together to advance healthcare innovation!
+
+📫 How to reach me: Feel free to contact me at faezahari@gmail.com or connect with me on Linkedin: https://www.linkedin.com/in/siti-nurfaezah-binti-zahari-18bb1a61/
+
